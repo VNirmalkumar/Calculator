@@ -1,4 +1,4 @@
 # Calculator
-A simple android calculator with Stylish Ui
+A simple android calculator 
 
 
